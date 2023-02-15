@@ -1,19 +1,19 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    
+  <div id="app">  
     <MainCard/>
+    <ProjectsCard/>
   </div>
 </template>
 
 <script>
 import MainCard from './components/MainCard.vue'
+import ProjectsCard from './components/ProjectsCard.vue'
 
 export default {
   name: 'App',
   components: {
-    
-    MainCard
+    MainCard,
+    ProjectsCard
   }
 }
 </script>
