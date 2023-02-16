@@ -50,7 +50,7 @@
             I'm a budding Software Engineer and Content Creator, who's putting in the work to become world-class soonest. I'm passionate about sharing knowledge, documentation, and web engineering.
         </p>
 
-        <ul>
+        <ul class="list-items">
             <li>😊 Pronouns: He/him</li>
             <li>💡 I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.</li>
             <li>🌱 I’m currently learning HTML, CSS, and JavaScript.</li>
@@ -233,7 +233,6 @@ justify-content: center;
 .about-me p{
   text-align: justify;
 }
-
 
 
 }
